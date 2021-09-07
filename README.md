@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berfingrz" alt="gurz" /> </p>
 
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/berfingrz)
+[![](https://img.shields.io/github/followers/berfingrz?style=social)](https://www.github.com/berfingrz)
 
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/berfingrz)
